@@ -56,6 +56,6 @@ int main()
         if (binh[i] - i > i)
             ++dem;
     }
-    cout << dem
+    cout << dem;
     return 0;
 }
